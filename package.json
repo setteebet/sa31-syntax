@@ -1,0 +1,18 @@
+{
+  "name": "sa31-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยดีมีที่นี่✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยดีมีที่นี่",
+"โหลดแอปแทงหวย24",
+"ไลน์ lottovip",
+"เล่นหวยหุ้นออนไลน์",
+"huaydee login"
+],
+  "repository": "https://github.com/setteebet/sa31-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
